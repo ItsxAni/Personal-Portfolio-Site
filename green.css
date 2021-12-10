@@ -1,0 +1,23 @@
+
+:root{
+	--mainColor: #050000;
+	--secondaryColor:#068505;
+
+	--borderColor: #161914;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--navBarColor:#15202B;
+
+	--themeDotBorder: #FFF;
+
+	--previewBg:rgb(81, 90, 72, 0.8);
+
+	--previewShadow: #2a2f25;
+
+	--postPreviewColor: #98ff98;
+
+	--buttonColor: #black;
+}
+
